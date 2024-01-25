@@ -1,0 +1,9 @@
+path: /content/gdrive/MyDrive/Vehicle_Detection_YOLO/Dataset/  # dataset root dir
+train: train  # train images (relative to 'path') 128 images
+val: valid  # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: bike
+  1: head
+
